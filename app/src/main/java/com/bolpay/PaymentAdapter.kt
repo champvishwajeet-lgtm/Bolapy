@@ -1,4 +1,4 @@
-package in.bolpay.app
+package com.bolpay.app
 
 import android.view.LayoutInflater
 import android.view.View

@@ -1,4 +1,4 @@
-package in.bolpay.app
+package com.bolpay.app
 
 data class PaymentModel(
     val amount: String = "",

@@ -1,4 +1,4 @@
-package in.bolpay.app
+package com.bolpay.app
 
 import android.content.Context
 import com.google.gson.Gson

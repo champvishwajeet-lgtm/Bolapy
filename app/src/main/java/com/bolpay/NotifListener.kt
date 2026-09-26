@@ -1,4 +1,4 @@
-package in.bolpay.app
+package com.bolpay.app
 
 import android.app.Notification
 import android.service.notification.NotificationListenerService

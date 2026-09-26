@@ -1,4 +1,4 @@
-package in.bolpay.app
+package com.bolpay.app
 
 import android.content.Intent
 import android.os.Bundle

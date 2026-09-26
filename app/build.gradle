@@ -3,10 +3,10 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 android {
-    namespace 'in.bolpay.app'
+    namespace 'com.bolpay.app'
     compileSdk 34
     defaultConfig {
-        applicationId "in.bolpay.app"
+        applicationId "com.bolpay.app"
         minSdk 23
         targetSdk 34
         versionCode 1
