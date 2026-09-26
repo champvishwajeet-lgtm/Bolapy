@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bolpay</string>
+    <string name="notif_service_label">Bolpay Notification Reader</string>
+</resources>
